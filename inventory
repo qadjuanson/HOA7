@@ -1,0 +1,10 @@
+[web_servers]
+192.168.56.102
+192.168.56.104	ansible_user=qadjuanson
+
+[db_servers]
+192.168.56.102
+192.168.56.104	ansible_user=qadjuanson
+
+[file_servers]
+192.168.56.101
